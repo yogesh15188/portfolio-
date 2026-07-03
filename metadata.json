@@ -1,0 +1,6 @@
+{
+  "name": "Yogesh Portfolio",
+  "description": "A premium full-stack developer portfolio with elegant framer-motion animations, custom layout, and an interactive project and social links manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
